@@ -24,8 +24,8 @@ Windows 安装目录为当前用户的：
 
 ## macOS 首次安装
 
-[!WARNING]
-Mac 版尚未在 macOS 设备上实机验证。
+> [!WARNING]
+> Mac 版尚未在 macOS 设备上实机验证。
 
 1. 首次运行前，打开“终端”，输入 `chmod +x `（末尾保留空格），再把 `安装脚本-forMac.command` 拖到终端窗口，按回车执行。这会给安装脚本添加运行权限。
 2. 回到 Finder，双击 `安装脚本-forMac.command`。如果 macOS 阻止运行，可按住 Control 键点击该文件并选“打开”；如果系统仍拦截，查看“系统设置 → 隐私与安全性”中的允许选项。
